@@ -28,3 +28,6 @@ const bubbleSortDsc = (arr) => {
 let array = [10,14,23,17,32,12,10];
 console.log(bubbleSortAsc(array));
 console.log(bubbleSortDsc(array));
+
+// Time Complexity = O(n^2)
+// Space Complexity = O(1)
